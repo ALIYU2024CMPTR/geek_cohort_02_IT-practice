@@ -7,7 +7,7 @@ This is where interns and collaborators **showcase their profiles, GitHub accoun
 
 ## 🌍 Intern Profiles
 
-Each intern has a profile file in the [`A.FARI`](./interns/ALIYU2024CMPTR.markdown) folder.  
+Each intern has a profile file in the [`A.FARI`](./interns/ALIYU2024CMPTR.md) folder.  
 Click a name below to view their profile:  
 
 - [Mentor](./interns/AdamsGeeky.md)  
