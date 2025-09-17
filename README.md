@@ -11,9 +11,11 @@ Each intern has a profile file in the [`A.FARI`](./interns/ALIYU2024CMPTR.md) fo
 Click a name below to view their profile:  
 
 - [Mentor](./interns/AdamsGeeky.md)  
-- [ADAMU MUHAMMAD MUHAMMAD](./interns/AdamsGeeky.md)  
-
----
+- [ADAMU MUHAMMAD MUHAMMAD](./interns/AdamsGeeky.md)
+  
+# Interners
+- [Aiman Nurudden](./interns/aimannuruddeen.md)
+- [BILAL GARKO IDRIS](./interns/Bilalgarko.md)
 
 ## 🚀 How to Add Your Profile
 
